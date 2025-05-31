@@ -1,0 +1,14 @@
+{
+  "Light Clean": {
+    "fill_method": "mean",
+    "outlier_method": null,
+    "normalize_method": null,
+    "encoding_method": "label"
+  },
+  "Full Auto": {
+    "fill_method": "median",
+    "outlier_method": "iqr",
+    "normalize_method": "zscore",
+    "encoding_method": "label"
+  }
+}

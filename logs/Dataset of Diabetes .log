@@ -1,0 +1,10 @@
+2025-05-31 18:02:59,708 | INFO | Loaded data with shape: (1000, 14)
+2025-05-31 18:02:59,709 | INFO | Stripped whitespace from column: Gender
+2025-05-31 18:02:59,710 | INFO | Stripped whitespace from column: CLASS
+2025-05-31 18:02:59,714 | INFO | Removed duplicates using columns: ['ID']
+2025-05-31 18:02:59,715 | INFO | Marked 2 outliers from 'AGE'
+2025-05-31 18:02:59,716 | INFO | Total outliers removed: 2
+2025-05-31 18:02:59,718 | INFO | Applied one-hot encoding to: Gender
+2025-05-31 18:02:59,722 | INFO | Applied one-hot encoding to: CLASS
+2025-05-31 18:02:59,740 | INFO | Saved cleaned data to data/Dataset of Diabetes _cleaned.csv
+2025-05-31 18:02:59,741 | INFO | Saved report to reports/Dataset of Diabetes _report.md
