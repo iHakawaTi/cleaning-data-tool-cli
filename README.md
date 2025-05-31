@@ -123,7 +123,7 @@ reports/
 ---
 ## 🌐 Live Demo
 
-🚀 Try the app now: [Open on Streamlit Cloud]([https://your-app.streamlit.app](https://cleaning-data-tool-cli-p5gbkkxzme3yzpenxcgh6y.streamlit.app/))
+🚀 Try the app now: [Open on Streamlit Cloud](https://cleaning-data-tool-cli-p5gbkkxzme3yzpenxcgh6y.streamlit.app/)
 
 ## 📄 License
 
